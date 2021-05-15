@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @guilhermesenci and im interessed in a developer career. I love a little freedom. I want a place that will help me to grow up.
-- 👀 I’m interested in back or front end jobs, remotely or not. 
-- 🌱 I’m currently learning news off JavaScrip (Node, Express, Sequelizer, Vanilla,ECMAScript..) and seing some things about PHP, Mobile, JQuery, MySQL.
-- 💞️ I’m looking to collaborate on smalls functions about objects orientation.
-- 📫 You can find me at guilherme.g.senci@gmail.com.
+## Olá!
 
-<!---
-guilhermesenci/guilhermesenci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá, me chamo Guilherme, sou desenvolvedor Front-End.
+
+## 💻 Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
+</p>
+
+## ⭐ Github
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=guilhermesenci&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesenci&hide=css,java,html&theme=tokyonight">
+</p>
+
+## 📕 Meus Artigos
+
+<!-- BLOG-POST-LIST:START -->
+
+## 🎯 Minhas redes sociais
+
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/guilherme_senci)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermesenci/)
